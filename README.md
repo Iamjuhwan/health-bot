@@ -121,7 +121,7 @@ Guardrail triggers are logged with user ID, category, and timestamp.
 
 ---
 
-## Deploying to Render
+## Deploying to Railway
 
 See [DEPLOY.md](./DEPLOY.md) for step-by-step deployment instructions.
 
