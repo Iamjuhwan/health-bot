@@ -1,0 +1,5 @@
+.env
+data/kb_index.faiss
+data/kb_metadata.pkl
+__pycache__/
+*.pyc
